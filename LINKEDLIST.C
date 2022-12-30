@@ -1,30 +1,3 @@
-Skip to content
-Product
-Solutions
-Open Source
-Pricing
-Search
-Sign in
-Sign up
-MANOJPATIL987
-/
-1BM21CS104-DST
-Public
-Code
-Issues
-Pull requests
-Actions
-Projects
-Security
-Insights
-1BM21CS104-DST/linked list
-@MANOJPATIL987
-MANOJPATIL987 Create linked list
-Latest commit c6823b6 2 weeks ago
- History
- 1 contributor
-123 lines (104 sloc)  2.17 KB
-
 #include <stdio.h>
 #include <stdlib.h>
 
@@ -148,18 +121,3 @@ int main()
     }
     return 0;
 }
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-1BM21CS104-DST/linked list at main · MANOJPATIL987/1BM21CS104-DST · GitHub
